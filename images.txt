@@ -1,1 +1,1 @@
-kasmweb/nginx:1.25.3
+kasmweb/nginx:1.13
